@@ -1,0 +1,16 @@
+EMZLY WEBSITE — CLEAN GITHUB PAGES PACKAGE
+
+IMPORTANT:
+1. Extract this ZIP on your computer.
+2. Open the extracted folder.
+3. Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+   Do not upload the ZIP file itself and do not upload an extra parent folder.
+4. Your repository root must show: index.html, html/, assets/, favicon.ico.
+5. On GitHub open Settings > Pages.
+6. Under Build and deployment choose "Deploy from a branch".
+7. Select branch "main" and folder "/ (root)", then Save.
+8. Wait for the Pages deployment to finish under Actions.
+
+The root index.html redirects to html/index.html.
+All eight website pages are inside html/.
+CSS, JavaScript and images are inside assets/.
